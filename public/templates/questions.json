@@ -1,0 +1,25 @@
+[
+  {
+    "id": "LOCAL-SAMPLE-001",
+    "subject": "에너지관리",
+    "topic": "현열량",
+    "question": "등록 예제: 물 2 kg, 비열 4.2 kJ/(kg·K), 온도차 10 K일 때 현열량은?",
+    "choices": [
+      "84 kJ",
+      "42 kJ",
+      "8.4 kJ",
+      "420 kJ"
+    ],
+    "answer": 1,
+    "explanation": "Q=m·c·ΔT=2×4.2×10=84 kJ. 자체 제작 등록 양식 예제.",
+    "difficulty": "중",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Craftsman-Air-Conditioning-and-Refrigerating-Machinery-CBT/blob/cbt/hvac-engineer-standard-20261102/docs/question-review.md",
+    "verificationStatus": "pending",
+    "reviewNote": "양식 예제. 승인 전 출처·권한·정답을 확인하세요.",
+    "version": "main",
+    "rights": "자체 제작 학습 자료 · CC BY 4.0. 원문 기출·복원 아님."
+  }
+]

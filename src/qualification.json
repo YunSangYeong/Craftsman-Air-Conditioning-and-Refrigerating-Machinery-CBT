@@ -1,0 +1,27 @@
+{
+  "name": "공조냉동기계기사",
+  "slug": "Craftsman-Air-Conditioning-and-Refrigerating-Machinery-CBT",
+  "bankId": "main",
+  "storageKey": "hvac-engineer-cbt:v1",
+  "rulesVerificationStatus": "pending",
+  "officialSources": [
+    {
+      "url": "https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1730",
+      "status": "접근 차단: 403 CONNECT tunnel failed; 본문 미확인"
+    }
+  ],
+  "subjects": [
+    "에너지관리",
+    "공조냉동설계",
+    "시운전 및 안전관리",
+    "유지보수 공조냉동"
+  ],
+  "questionsPerSubject": 20,
+  "questionCount": 80,
+  "durationMinutes": 120,
+  "choiceCount": 4,
+  "passScore": 60,
+  "subjectCutoff": 40,
+  "selectionPolicy": "과목별 20문항. 템플릿 10종/과목에서 한 순회당 family 1문항씩, 부족 시 다음 순회로 보충. 실제 출제범위/난이도 재현 미확인.",
+  "unansweredPolicy": "오답 처리. 전체 평균 60점 이상 및 모든 과목 40점 이상일 때 합격. 공식자료 대조 전 학습용 설정."
+}
