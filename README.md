@@ -1,2 +1,2 @@
 # Craftsman-Air-Conditioning-and-Refrigerating-Machinery-CBT
-공조냉동기계기능사
+공조냉동기계기사
